@@ -1,4 +1,4 @@
-HelloWorld Servlet example with corresponding Dockerfile - TESTING GITHUB HOOK
+HelloWorld Servlet example with corresponding Dockerfile - TESTING GITHUB HOOK_1
 
 Use Maven Build first to create war file in Target folder.
 
